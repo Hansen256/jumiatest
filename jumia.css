@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+.list{
+    width: 20%;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 0;
+}
+
+.list-group
+{
+    width: 100%;
+}
+
+.orders{ 
+    display: flex-end;
+    width: 80%;
+    justify-content: space-around;
+    margin-right: 0;
+
+}
